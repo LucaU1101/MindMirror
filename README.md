@@ -1,2 +1,1 @@
-# MindMirror
-Final Year Project
+AI-assisted philosophical journaling platform built as my final-year thesis.
