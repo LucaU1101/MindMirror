@@ -4,22 +4,26 @@ AI-assisted philosophical journaling platform built as my final-year thesis.
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/loginpage.png)
 
 ---
 
-## AI Analysis
+## Main Page
 
-![Analysis](screenshots/analysis.png)
+![Main](screenshots/mainpage.png)
 
+
+![Main Page](screenshots/mainpage2.png)
+
+
+![Main Page](screenshots/mainpagewide.png)
 ---
 
-## Recommendations
+## Results
 
-![Recommendations](screenshots/recommendations.png)
+![Main Page](screenshots/results.png)
 
----
 
-## Journal
+
 
 ![Journal](screenshots/journal.png)
